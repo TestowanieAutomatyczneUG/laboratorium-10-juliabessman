@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap");
+body {
+  margin: 0;
+  background-color: whitesmoke;
+  color: #3F3F3F;
+  font-family: 'Luxurious Roman';
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-decoration: none;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+nav {
+  -webkit-box-flex: 20%;
+      -ms-flex: 20%;
+          flex: 20%;
+}
+
+li {
+  list-style: none;
+  color: blueviolet;
+}
+/*# sourceMappingURL=index.css.map */

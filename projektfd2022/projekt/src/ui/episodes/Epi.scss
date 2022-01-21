@@ -1,0 +1,44 @@
+.liste{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.liste{
+    display:flex;
+    flex-direction: row;
+    
+    justify-content: center;
+    >.epi{
+        margin-bottom: 3em;
+    
+    }
+}
+button{
+border-style: none;
+background-color: transparent;
+color: black;
+width: 60px;
+border-bottom: 1px solid black;
+
+
+}
+.add{
+    margin-left: 10%;
+    margin-bottom: 6%;
+}
+.detailsq{
+    display:flex;
+    flex-direction: column;
+    
+    margin-left:40%;
+
+
+}
+
+    h1{
+        color: #000000;
+       
+        font-size: 50px;
+        text-decoration: underline;
+       
+    } 

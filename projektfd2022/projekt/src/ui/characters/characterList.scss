@@ -1,0 +1,52 @@
+.cha{
+    display: flex;
+flex-direction: column;
+
+}
+h3{
+    color: #000000;
+    margin-left: 40%;
+    font-size: 50px;
+    text-decoration: underline;
+    width: 20%;
+}
+.list{
+display: flex;
+flex-direction: row;
+justify-content: center;
+
+}
+
+.books{
+    width: 200px;
+    height: 200px;
+    margin-left: 25%;
+    border-radius: 50%;
+    margin-top: 4em;
+
+}
+
+.character{
+   
+    width:100%;
+    margin-left: 10%;
+    
+
+  
+}
+
+.select{
+    width: 200px;
+
+}
+
+.filters{
+margin-left: 10%;
+margin-bottom: 6%;
+}
+img{
+    margin-left: 40%;
+}
+.cbutton{
+ margin-left: 10%;
+}
